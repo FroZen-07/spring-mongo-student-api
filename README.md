@@ -1,0 +1,1 @@
+# spring-mongo-student-api
